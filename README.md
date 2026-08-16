@@ -123,7 +123,7 @@ AI-Based-Smart-Energy-Consumption-Prediction/
 
 ## Author
 
-**Manohar Prabhu Hiremath**
+**Manohar Hiremath**
 
 MSc Data Science  
 Coventry University
