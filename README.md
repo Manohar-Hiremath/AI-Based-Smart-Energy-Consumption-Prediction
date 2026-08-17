@@ -114,14 +114,13 @@ The raw dataset is not included in this repository where redistribution restrict
 
 ## Repository Contents
 
-```text
 AI-Based-Smart-Energy-Consumption-Prediction/
 │
 ├── README.md
 │
 └── smart_energy_consumption_forecasting.ipynb
 
----
+
 
 ## Author
 
